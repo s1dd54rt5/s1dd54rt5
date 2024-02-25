@@ -57,8 +57,3 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/s1dd45rt5/).<hr>
 
   </tbody>
 </table>
-
-
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1dd54rt5&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
